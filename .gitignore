@@ -8,3 +8,5 @@ coverage/
 dist
 docs/dist
 npm-debug.log
+/nbproject/private/
+/nbproject/
